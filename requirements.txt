@@ -1,0 +1,8 @@
+Flask
+gevent
+numpy
+Pillow
+tensorflow-cpu
+Werkzeug
+Gunicorn
+protobuf==3.20.*
